@@ -19,7 +19,8 @@ The **Potent Penumbral Lexicon** is a comprehensive research library analyzing s
 - Focus on statutory ambiguities and regulatory gaps
 - Analysis of federal-state tensions
 - Examination of enforcement discretion patterns
-- **Status**: Private (50+ pages each)
+- **Format**: 50+ pages per state
+- **Status**: Private
 
 ### 📄 Penumbrant One-Pagers™
 *Executive summaries of key issues by state*
@@ -51,11 +52,63 @@ The **Potent Penumbral Lexicon** is a comprehensive research library analyzing s
 
 ---
 
-## 🔐 Access
+## 💰 Pricing & Access
 
-Full Penumbrant Papers and ORA Reports are proprietary and available only through licensing agreements.
+### **Single State Package** — $1,500
+Includes:
+- Full Penumbrant Paper (50+ pages)
+- Complete ORA Report
+- One-time purchase with perpetual access
 
-**For inquiries:** kgs.admn@gmail.com
+### **Multi-State Bundle (3 States)** — $3,750
+- Choose any 3 states
+- Save 17% vs. individual purchase
+- Ideal for regional operators
+
+### **All-State Access (4 States)** — $4,800
+- Complete coverage: CO, MN, MI, GA
+- Save 20% vs. individual purchase
+- Comprehensive regulatory intelligence
+
+### **Annual Update Subscription** — $500/year per state
+- Receive updated versions as regulations evolve
+- Quarterly amendment summaries
+- Priority email support
+
+### **Enterprise License** — Starting at $12,000/year
+Includes:
+- All states with unlimited team access
+- Quarterly updates included
+- 4 hours of consultation annually
+- Custom research requests (up to 2/year)
+
+---
+
+## 📥 How to Purchase
+
+**Step 1:** Email [kgs.admn@gmail.com](mailto:kgs.admn@gmail.com) with:
+- Which package you're interested in
+- Your name, company, and license number (if applicable)
+- Intended use case
+
+**Step 2:** You'll receive:
+- License agreement for review
+- Invoice with payment options (ACH, wire, credit card)
+- Estimated delivery timeline
+
+**Step 3:** Upon payment:
+- Secure document delivery via encrypted link
+- Access credentials for any future updates
+- Certificate of licensing
+
+---
+
+## 🎁 Free Resources
+
+- **ORA Leaflets™** — Available in `/docs/ORA-Leaflets/`
+- **Penumbrant One-Pagers™** — Available in `/docs/Penumbrant-One-Pagers/`
+
+*Use these teasers to evaluate our research quality before purchasing full reports.*
 
 ---
 
