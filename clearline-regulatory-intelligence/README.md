@@ -1,45 +1,210 @@
-# Clearline Regulatory Intelligence (Penumbrant Pass Portal)
+# ClearLine Regulatory Intelligence
+## Cannabis Compliance Clarity: From Black-Letter Law to Regulatory Shadows
 
-## Introduction
-Clearline Regulatory Intelligence is the commercial backbone behind the Penumbrant Pass Portal. We package two complementary compliance mindsets:
+---
 
-- **Penumbrant**: Human-led pattern spotting that surfaces gray areas, unarticulated obligations, and enforcement drift so operators can navigate ambiguity with confidence.
-- **LOTL (Letter of the Law)**: Rigorously cited, black-letter coverage that documents what the statute, rule, or bulletin literally requires—no more, no less.
+## 🎯 The ClearLine Approach
 
-Together they create a **dual-vision toolkit** for cannabis operators, counsel, and regulators who need to see both the safe harbor and the penumbra. This repo is your preview library: free briefs, methodology explainers, and product previews that show how we turn regulatory confusion into operator-ready guidance.
+Most cannabis compliance resources tell you **what the law says**.  
+ClearLine tells you **what the law says** AND **where the law is unclear**.
 
-## What you get here
-- **Free resources**: Executive briefs by state, LOTL stack samples, and full manual showcases that demonstrate how we translate raw law into usable playbooks.
-- **Product previews**: Side-by-side Penumbrant vs LOTL views, plus glimpses of our regional, regulatory-policy, topical, and “Lil LOTL” offerings.
-- **State catalog**: A live matrix of coverage so teams can see what’s available before purchasing.
-- **Purchase hub**: Direct Gumroad links to buy the exact playbook or manual you need.
+We provide two complementary product lines:
 
-## Differentiation: Penumbrant vs LOTL
-| Dimension | Penumbrant (Gray) | LOTL (Black Letter) |
-| --- | --- | --- |
-| Objective | Expose ambiguities, enforcement drift, and asymmetries | Document the literal obligations and citations |
-| Output Style | Narrative analysis, scenario stress-tests, operator translation | Structured statutory/rule excerpts, clause-level checklists |
-| Best For | Market entry, audits, regulator dialogues, risk mapping | SOP builds, evidence files, training binders, formal reviews |
-| Evidence | Comparative state scans, interpretive reasoning, regulatory signals | Citation-first, clause-by-clause with pinpoint references |
+### 📜 LOTL Stack (Letter of the Law)
+**The law everyone knows.**  
+Official statutes, regulation numbers, settled legal frameworks, industry impact.
 
-## Repository layout
-All content now lives under `clearline-regulatory-intelligence/`.
+### 🌑 Penumbrant Pro's Manual
+**The regulatory shadows.**  
+Gaps, ambiguities, enforcement uncertainties, risk surfaces.
 
-- `README.md` (this page) – sales overview and differentiation
-- `FRAMEWORK.md` – how Penumbrant and LOTL methodologies work together
-- `LICENSE.md` – licensing terms (CC BY-NC-ND 4.0)
-- `free-resources/` – executive briefs, LOTL samples, full manual showcases, and methods
-- `product-previews/` – previews across playbook lines
-- `state-catalog/` – coverage matrix
-- `purchase/` – Gumroad links
+**Together:** Complete regulatory intelligence for informed compliance decisions.
 
-Existing Penumbrant Papers (METRC series) are preserved inside `free-resources/penumbrant-executive-briefs/` for quick reference.
+---
 
-## Getting started
-1. Browse **free-resources** for state-level briefs and methodology primers.
-2. Use **product-previews** to decide whether you need Penumbrant, LOTL, or both.
-3. Check the **state-catalog** matrix to confirm availability.
-4. Go to **purchase/GUMROAD-LINKS.md** to buy the bundle you need.
+## 📖 Free Resources (Start Here)
 
-## Conclusion
-Regulatory clarity is a moving target. Clearline gives you both the **black-letter foundation** and the **penumbrant foresight** to stay ahead of audits, enforcement shifts, and operational surprises. Explore the previews, validate the fit, then grab the playbooks that keep your team compliant and confident.
+### Penumbrant Executive Briefs (All 39 States)
+10-page regulatory gap analyses:
+- [Colorado](clearline-regulatory-intelligence/free-resources/penumbrant-executive-briefs/Colorado-Penumbrant-EB.md) - Mature market gaps
+- [Minnesota](clearline-regulatory-intelligence/free-resources/penumbrant-executive-briefs/Minnesota-Penumbrant-EB.md) - New market ambiguities
+- [Georgia](clearline-regulatory-intelligence/free-resources/penumbrant-executive-briefs/Georgia-Penumbrant-EB.md) - Restrictive program limitations
+- [View All 39 States →](clearline-regulatory-intelligence/free-resources/penumbrant-executive-briefs/README.md)
+
+### Sample Full Manuals (FREE)
+See the depth and quality:
+- **[Colorado: Penumbrant Pro's Manual](clearline-regulatory-intelligence/free-resources/sample-full-manuals/Colorado-Penumbrant-Pros-Manual.md)** (30,000 words, 88 citations)
+- **[Colorado: LOTL Stack](clearline-regulatory-intelligence/free-resources/sample-full-manuals/Colorado-LOTL-Stack-Full.md)** (black-letter law compilation)
+
+### Understanding Our Products
+- **[LOTL vs. Penumbrant: What's the Difference?](clearline-regulatory-intelligence/product-previews/penumbrant-vs-lotl-comparison.md)** ⭐ READ THIS FIRST
+- [Methodology: How We Identify Regulatory Gaps](clearline-regulatory-intelligence/free-resources/methodology/How-We-Identify-Regulatory-Gaps.md)
+- [LOTL Documentation Standards](clearline-regulatory-intelligence/free-resources/methodology/LOTL-Documentation-Standards.md)
+
+---
+
+## 💎 Premium Products
+
+### Individual State Products
+
+| Product | What It Is | Price | Purchase |
+|---------|-----------|-------|----------|
+| **LOTL Stack** | Black-letter law compilation | $79-99 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| **Penumbrant Pro's Manual** | Regulatory gap analysis | $99-129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| **Lil' LOTL Stack** | Condensed statutory overview | $39-49 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+
+**💰 State Bundles (Best Value):**
+- **Complete State Package:** LOTL + Penumbrant = $159 (save 20%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
+- **Essentials:** Lil' LOTL + Penumbrant EB = $39 — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
+
+---
+
+### Multi-State Products
+
+#### Regional Playbooks
+Geography-based multi-state analysis (no political overlay).
+
+| Region | States Covered | Price | Purchase |
+|--------|---------------|-------|----------|
+| West Coast | CA, OR, WA | $249 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| Midwest | IL, MI, MN, OH | $249 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| Northeast | MA, ME, NJ, NY, RI, VT | $299 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| [View All Regions →](clearline-regulatory-intelligence/product-previews/regional-playbook-preview.md) | | | |
+
+#### Reg &amp; Pol Playbooks
+Regional norms + political climate analysis.
+
+| Region | Coverage | Price | Purchase |
+|--------|----------|-------|----------|
+| West Coast | CA, OR, WA + political landscape | $299 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| Midwest | IL, MI, MN, OH + political trends | $299 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| [View All →](clearline-regulatory-intelligence/product-previews/reg-pol-playbook-preview.md) | | | |
+
+---
+
+### Topical Deep Dives
+Subject-specific analysis across 20 states.
+
+| Topic | States Covered | Price | Purchase |
+|-------|---------------|-------|----------|
+| Employment &amp; Drug Testing | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| Social Equity Programs | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| Track-and-Trace (Metrc/Biotrack) | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| Municipal Variance &amp; Home Rule | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+| [View All Topics →](clearline-regulatory-intelligence/product-previews/topical-deepdive-preview.md) | | | |
+
+---
+
+## 🎁 Premium Bundles
+
+### Multi-State Operator Packages
+
+**West Coast Complete:**
+- CA, OR, WA: LOTL Stacks + Penumbrant Manuals
+- West Coast Regional Playbook
+- West Coast Reg &amp; Pol Playbook
+- **Price:** $699 (save 35%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
+
+**Midwest Operator:**
+- IL, MI, MN, OH: LOTL + Penumbrant
+- Midwest Regional Playbook
+- **Price:** $599 (save 30%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
+
+### Topic-Focused Packages
+
+**Employment Compliance Master:**
+- Employment Deep Dive (all 20 states)
+- Penumbrant Manuals for all 20 states
+- **Price:** $1,499 (save 40%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
+
+**Social Equity Navigator:**
+- Social Equity Deep Dive (all 20 states)
+- Reg &amp; Pol Playbooks (all regions)
+- **Price:** $999 (save 35%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
+
+---
+
+## 🏆 ClearLine Complete (All-Access)
+
+**Everything. Forever.**
+
+- ✅ All 39 LOTL Stacks
+- ✅ All 39 Penumbrant Pro's Manuals
+- ✅ All Regional Playbooks
+- ✅ All Reg &amp; Pol Playbooks
+- ✅ All Topical Deep Dives
+- ✅ Quarterly updates for 12 months
+- ✅ Priority email support
+
+**Investment:** $2,499  
+[Purchase ClearLine Complete →](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
+
+---
+
+## 📊 State Coverage Matrix
+
+Not sure which states you need? Check our coverage:
+
+[View Interactive State Matrix →](clearline-regulatory-intelligence/state-catalog/State-Product-Coverage-Matrix.md)
+
+Shows which products cover which states and what's available.
+
+---
+
+## 🎯 Who Uses ClearLine
+
+**Cannabis Operators:**
+> "We use LOTL Stacks for staff training and Penumbrant Manuals for executive risk assessment. Together they're our compliance foundation."  
+> — VP of Compliance, Multi-State Operator
+
+**Legal Counsel:**
+> "Penumbrant analysis saved us 40 hours researching Minnesota's employment law gaps. The LOTL Stack gave us every cite we needed."  
+> — Cannabis Attorney, Minneapolis
+
+**Investors:**
+> "Before entering a new state, we buy the complete package. LOTL shows us the rules; Penumbrant shows us the risks."  
+> — Investment Director, PE Fund
+
+---
+
+## 🔔 Stay Updated
+
+- ⭐ **Star this repository** for new state releases
+- 👀 **Watch** for quarterly regulatory updates
+- 🔗 **Follow ClearLine:** Twitter | LinkedIn
+
+---
+
+## 📧 Custom Research &amp; Enterprise
+
+Need something beyond our catalog?
+
+**Custom Services:**
+- Tribal jurisdiction analysis
+- Multi-state compliance frameworks
+- Regulatory change monitoring (annual retainer)
+- Custom topical research
+
+**Contact:** research@clearline.example  
+For repository communications: tvk.hrzn+pnb@gmail.com
+
+---
+
+## ⚖️ Legal Notice
+
+These materials provide regulatory intelligence and analysis.  
+They do NOT constitute legal advice.
+
+**ClearLine does not:**
+- Render legal opinions on specific transactions
+- Replace licensed cannabis attorneys
+- Defend operators in regulatory proceedings
+
+**You remain solely responsible** for compliance decisions and enforcement exposure.
+
+For legal advice, consult a licensed cannabis attorney.
+
+---
+
+**© 2026 ClearLine. All rights reserved.**  
+[License](clearline-regulatory-intelligence/LICENSE.md) | Privacy | [Contact](mailto:research@clearline.example)
