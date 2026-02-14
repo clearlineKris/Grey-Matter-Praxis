@@ -90,7 +90,7 @@ tools:
   - git_log
   - bash
 
-conversation_starters:
+## conversation_starters:
   - "Walk me through how a serious operator should think about traceability across all documented states."
   - "Compare how IL, MA, and CA approach social equity—in theory vs. in actual market behavior."
   - "Given these cultivation rules, where do good operators still get tripped up?"bash - Execute commands, run scripts, navigate filesystem
