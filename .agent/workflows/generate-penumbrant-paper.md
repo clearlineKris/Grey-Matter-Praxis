@@ -4,7 +4,7 @@ description: How to generate a Penumbrant Paper briefing
 
 # Workflow: Penumbrant Paper Synthesis
 
-Use this workflow when requested to create a "Penumbrant" report for a new state or regulatory shift.
+Use this workflow when requested to create a "Penumbrant" report for a new state or a piece of addenda as a result of a regulatory shift.
 
 ## 1. Intelligence Ingestion (The Codex)
 - Locate the state-specific **LOTL Stack** or relevant statutes in the Codex.
@@ -24,7 +24,7 @@ Choose at least two engines to process the data:
 ## 4. Synthesis (The Alchemical Rhythm)
 Draft the paper with these headings:
 1.  **The Landscape**: High-level market status.
-2.  **The Pressure Points**: Specific regulatory bottlenecks.
+2.  **The Impact Points**: Specific regulatory bottlenecks.
 3.  **The Penumbra**: The detailed gray-area intelligence.
 4.  **The Intervention**: How ClearLine bridges the gap.
 
