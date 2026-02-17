@@ -1,0 +1,22 @@
+# Protect proprietary methodology and strategic framework documents
+methodology/
+
+# Protect any internal analysis or competitive intelligence
+*.internal.md
+*-INTERNAL-*
+
+# Protect any API keys, credentials, or sensitive configuration
+.env
+.env.local
+*.key
+*.pem
+credentials.json
+
+# Common OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
