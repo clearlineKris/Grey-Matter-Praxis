@@ -67,9 +67,11 @@ The agent infrastructure reflects how ClearLine integrates AI tooling into resea
 
 
 ## The Broader System
-Grey-Matter-Praxis is the demonstration layer of ClearLine's Core Intelligence Layer (CIL) — the analytical foundation that converts regulatory input into structured decision output across the Jurisdictional Signal Engine, Enforcement Matrix, Drift Index, and Stalwart Suite.
+Grey-Matter-Volumes serve as the demonstration layer of ClearLine's Core Intelligence Landscape (CIL) — the analytical foundation that converts regulatory input into structured decision output across the Jurisdictional Signal Engine, Enforcement Matrix, Drift Index, and Stalwart Suite.
 For the full ClearLine architecture and engagement information, visit the ClearLine Portfolio or the live site at clearlinekris.github.io.
 
 ClearLine™ — Anticipatory, not reactive. 
 ---
-This repository and its contents constitute regulatory intelligence documentation, not legal advice. ClearLine is not a law firm and does not provide legal representation. Consult qualified legal counsel for jurisdiction-specific legal guidance.
+This repository and its contents constitute *regulatory intelligence documentation*, **not legal advice**. 
+ClearLine is **_not a law firm_** and does *not* provide *legal representation*. 
+**Consult qualified legal counsel** for jurisdiction-specific legal guidance.
